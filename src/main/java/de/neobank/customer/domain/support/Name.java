@@ -7,4 +7,5 @@ public class Name {
   String firstName;
   String middleName;
   String lastName;
+  String nikeName;
 }
